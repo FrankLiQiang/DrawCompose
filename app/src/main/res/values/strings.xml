@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DrawCompose</string>
+    <string name="app_name">四犬互逐</string>
     <string name="dog_help">开始绘制，点击任意点，停止绘画\n
         上部左右滑动：改变样式\n
         中部左右滑动：改变大小\n
